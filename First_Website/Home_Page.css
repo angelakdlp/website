@@ -1,0 +1,22 @@
+.div-one{
+    height: 768px;;
+    width: 1056px;
+    display: inline-block;
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+    max-width: 100%;
+    background-image: url('DSC_0228.jpg');
+    background-size: cover;
+    background-position: center;
+    
+}
+.heading-container{
+    color: white;
+    width: 100%;
+    position: absolute;
+    padding: 20px;
+    margin: 0px 0px 0px 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
